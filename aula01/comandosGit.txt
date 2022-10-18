@@ -12,3 +12,10 @@ ____CLONANDO O REPOSITÓRIO____
 • Abrir a pasta do repositório no VsCode.
 
 ___SUBINDO PRO GITHUB____
+• Fazer o trabalho.
+• git add .
+• git status
+• git commit -m "trabalho quase pronto"
+• git push
+
+___PRONTO_____
