@@ -1,0 +1,17 @@
+*{
+   padding:0;
+   margin:0;
+   box-sizing: border-box;
+}
+body{
+   display: grid;
+}
+button{
+   background-color: rgb(47, 255, 154);
+   height: 90px;
+   width: 250px;
+   color: white;
+   font-size: 25px;
+   border: 3px solid green;
+   margin: 20% auto;
+}
